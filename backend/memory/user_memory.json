@@ -1,0 +1,30 @@
+{
+  "past_purchases": [
+    {
+      "product": "Boat Rockerz 450",
+      "price": 1499,
+      "rating": 2,
+      "note": "broke in 3 months"
+    },
+    {
+      "product": "JBL Tune 510BT",
+      "price": 2999,
+      "rating": 5,
+      "note": "still using daily"
+    }
+  ],
+  "preferences": [
+    "prefer JBL",
+    "prefer Logitech for peripherals"
+  ],
+  "avoid": [
+    "Boat brand",
+    "sellers with <50 reviews"
+  ],
+  "budget_patterns": {
+    "headphones": 2500,
+    "mouse": 1500,
+    "keyboard": 3000
+  },
+  "tx_history": []
+}

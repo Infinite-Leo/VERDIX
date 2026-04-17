@@ -1,0 +1,46 @@
+{
+  "past_purchases": [
+    {
+      "product": "Boat Rockerz 450",
+      "price": 1499,
+      "rating": 2,
+      "note": "Broke in 3 months, terrible build quality"
+    },
+    {
+      "product": "JBL Tune 510BT",
+      "price": 2999,
+      "rating": 5,
+      "note": "Still using daily, excellent sound"
+    },
+    {
+      "product": "Logitech G102",
+      "price": 1295,
+      "rating": 4,
+      "note": "Reliable gaming mouse, good value"
+    },
+    {
+      "product": "Logitech G102 Lightsync Gaming Mouse",
+      "price": 16.71,
+      "rating": 0,
+      "note": "auto-recorded by VERDIX"
+    }
+  ],
+  "preferences": [
+    "JBL",
+    "Logitech",
+    "Sony"
+  ],
+  "avoid": [
+    "Boat",
+    "generic brand",
+    "refurbished"
+  ],
+  "budget_patterns": {
+    "headphones": 2500.0,
+    "mouse": 1500.0,
+    "keyboard": 3000.0
+  },
+  "tx_history": [
+    "tx_690001aaad2f"
+  ]
+}
