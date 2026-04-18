@@ -41,6 +41,12 @@
       "price": 16.71,
       "rating": 0,
       "note": "auto-recorded by VERDIX"
+    },
+    {
+      "product": "Logitech G102 Lightsync Gaming Mouse",
+      "price": 16.71,
+      "rating": 0,
+      "note": "auto-recorded by VERDIX"
     }
   ],
   "preferences": [
@@ -62,6 +68,7 @@
     "tx_690001aaad2f",
     "tx_1aa78477e56e",
     "tx_fd7250295819",
-    "tx_4da1c4719f5c"
+    "tx_4da1c4719f5c",
+    "tx_e6aa9e5a608b"
   ]
 }
